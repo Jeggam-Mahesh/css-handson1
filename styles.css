@@ -1,0 +1,35 @@
+
+h1{
+        color:rgb(240, 11, 11);
+
+}
+h2{
+font-style:italic;
+color: blue;
+}
+.one{
+ color: rgb(166, 27, 27);
+
+}
+#oc{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.bg{
+    background-color: yellow;
+    font-weight: bold;
+}
+#two{
+    text-decoration:underline;
+    font-style: italic;
+}
+a{
+    font-style: italic;
+    background-color: yellow;
+    color: darkorange;
+    text-decoration: none
+}
+#thr{
+    letter-spacing:7px;
+    font-weight:300;
+}
